@@ -4,9 +4,7 @@
 
 ### 🎈Experiences
 
-<div align="center">**✏조선대학교 전자공학과 학사** 2015.03 ~ 2022.02</div>
-
-<center>**✏조선대학교 전자공학과 학사** 2015.03 ~ 2022.02</center>
+<div align="center">✏조선대학교 전자공학과 학사 2015.03 ~ 2022.02</div>
 
 <div align="center">💻삼성 청년 소프트웨어 아카데미 7기 2022.01 ~ 2022.12</div>
 
@@ -28,7 +26,7 @@
 
 
 
-
+### <center>**Front-end**</center>
 
 ### <center>**Front-end**</center>
 
