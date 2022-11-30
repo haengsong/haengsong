@@ -1,17 +1,5 @@
 ### HaengSong 👋
 
-
-
- <div width="60%" style="margin-left:30px;"><p style="font-size:150%; font-weight:bolder">📞Contact</p><p><span style="font-weight:bolder">Email</span> : haengsong@naver.com</p><p><span style="font-weight:bolder">Phone</span> : 010-5145-3315</p></div>
-
-
-
-### 📞Contact
-
-​		**Email** : haengsong@naver.com
-
-​		**Phone** : 010-5145-3315
-
 <hr />
 
 ### 🎈Experiences
@@ -35,9 +23,9 @@
 
 
 
-## **<center>Front-end</center>**
 
 
+### <center>**Front-end**</center>
 
 
 
@@ -51,14 +39,14 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
 
-## <center>**Back-end**</center>
+### <center>**Back-end**</center>
 
 <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
 
-## <center>**e**tc</center>
+### <center>**e**tc</center>
 
 <div align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></div>
 
